@@ -1,9 +1,0 @@
-	metric	marker	geodiversity	u	p	q
-0	weighted	16SrRNA	Homogenous	0.0	0.0	0.0
-1	unweighted	16SrRNA	Homogenous	0.0	0.0	0.0
-2	weighted	16SrRNA	Heterogenous	0.0	0.0	0.0
-3	unweighted	16SrRNA	Heterogenous	0.0	0.0	0.0
-4	weighted	ITS1	Homogenous	0.0	0.0	0.0
-5	unweighted	ITS1	Homogenous	0.0	0.0	0.0
-6	weighted	ITS1	Heterogenous	0.0	0.0	0.0
-7	unweighted	ITS1	Heterogenous	0.0	0.0	0.0

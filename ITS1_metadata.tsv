@@ -1,77 +1,77 @@
-sample ID	TubePartA_slope_or_plant	TubePartB	DeadOrAlive	Niche	Geodiversity	Experiment	Location	GeoLocation
-ITS-AS3000	O1	S1	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3001	O1	S2	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3002	O1	S3	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3003	O1	S4	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3004	O1	S5	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3005	O1	I1	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3006	O1	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3007	O1	I3	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3008	O1	I4	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3009	O1	I5	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3010	O2	S1	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3011	O2	S2	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3012	O2	S3	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3013	O2	S4	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3014	O2	S5	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3015	O2	I1	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3016	O2	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3017	O2	I3	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3018	O2	I4	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3019	O2	I5	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3020	O3	S1	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3021	O3	S2	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3022	O3	S3	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3023	O3	S4	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3024	O3	S5	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3025	O3	I1	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3026	O3	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3027	O3	I3	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3028	O3	I4	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3029	O3	I5	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3030	H1	S1	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3031	H1	S2	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3032	H1	S3	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3033	H1	S4	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3034	H1	S5	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3035	H1	I1	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3036	H1	I2	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3037	H1	I3	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3038	H1	I4	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3039	H1	I5	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3040	H2	S1	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3041	H2	S2	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3042	H2	S3	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3043	H2	S4	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3044	H2	S5	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3045	H2	I1	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3046	H2	I2	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3047	H2	I3	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3048	H2	I4	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3049	H2	I5	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3050	H3	S1	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3051	H3	S2	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3052	H3	S3	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3053	H3	S4	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3054	H3	S5	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3055	H3	I1	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3056	H3	I2	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3057	H3	I3	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3058	H3	I4	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3059	H3	I5	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3060	D1	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3061	D2	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3062	D3	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3063	D4	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3064	D1	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3065	D2	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3066	D3	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3067	D4	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3068	L1	S	Live	Shrub	Heterogenous	Missing	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3069	L2	S	Live	Shrub	Heterogenous	Missing	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3070	L3	S	Live	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3071	L4	S	Live	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3072	L1	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3073	L2	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3074	L3	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
-ITS-AS3075	L4	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"
+sample ID	TubePartA_slope_or_plant	TubePartB	DeadOrAlive	Niche	Geodiversity	Experiment	Location	GeoLocation	S
+ITS-AS3000	O1	S1	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3000
+ITS-AS3001	O1	S2	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3001
+ITS-AS3002	O1	S3	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3002
+ITS-AS3003	O1	S4	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3003
+ITS-AS3004	O1	S5	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3004
+ITS-AS3005	O1	I1	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3005
+ITS-AS3006	O1	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3006
+ITS-AS3007	O1	I3	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3007
+ITS-AS3008	O1	I4	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3008
+ITS-AS3009	O1	I5	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3009
+ITS-AS3010	O2	S1	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3010
+ITS-AS3011	O2	S2	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3011
+ITS-AS3012	O2	S3	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3012
+ITS-AS3013	O2	S4	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3013
+ITS-AS3014	O2	S5	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3014
+ITS-AS3015	O2	I1	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3015
+ITS-AS3016	O2	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3016
+ITS-AS3017	O2	I3	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3017
+ITS-AS3018	O2	I4	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3018
+ITS-AS3019	O2	I5	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3019
+ITS-AS3020	O3	S1	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3020
+ITS-AS3021	O3	S2	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3021
+ITS-AS3022	O3	S3	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3022
+ITS-AS3023	O3	S4	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3023
+ITS-AS3024	O3	S5	Live	Shrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3024
+ITS-AS3025	O3	I1	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3025
+ITS-AS3026	O3	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3026
+ITS-AS3027	O3	I3	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3027
+ITS-AS3028	O3	I4	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3028
+ITS-AS3029	O3	I5	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3029
+ITS-AS3030	H1	S1	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3030
+ITS-AS3031	H1	S2	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3031
+ITS-AS3032	H1	S3	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3032
+ITS-AS3033	H1	S4	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3033
+ITS-AS3034	H1	S5	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3034
+ITS-AS3035	H1	I1	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3035
+ITS-AS3036	H1	I2	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3036
+ITS-AS3037	H1	I3	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3037
+ITS-AS3038	H1	I4	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3038
+ITS-AS3039	H1	I5	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3039
+ITS-AS3040	H2	S1	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3040
+ITS-AS3041	H2	S2	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3041
+ITS-AS3042	H2	S3	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3042
+ITS-AS3043	H2	S4	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3043
+ITS-AS3044	H2	S5	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3044
+ITS-AS3045	H2	I1	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3045
+ITS-AS3046	H2	I2	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3046
+ITS-AS3047	H2	I3	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3047
+ITS-AS3048	H2	I4	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3048
+ITS-AS3049	H2	I5	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3049
+ITS-AS3050	H3	S1	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3050
+ITS-AS3051	H3	S2	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3051
+ITS-AS3052	H3	S3	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3052
+ITS-AS3053	H3	S4	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3053
+ITS-AS3054	H3	S5	Live	Shrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3054
+ITS-AS3055	H3	I1	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3055
+ITS-AS3056	H3	I2	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3056
+ITS-AS3057	H3	I3	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3057
+ITS-AS3058	H3	I4	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3058
+ITS-AS3059	H3	I5	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3059
+ITS-AS3060	D1	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3060
+ITS-AS3061	D2	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3061
+ITS-AS3062	D3	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3062
+ITS-AS3063	D4	S	Dead	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3063
+ITS-AS3064	D1	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3064
+ITS-AS3065	D2	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3065
+ITS-AS3066	D3	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3066
+ITS-AS3067	D4	I	Dead	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3067
+ITS-AS3068	L1	S	Live	Shrub	Heterogenous	Missing	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3068
+ITS-AS3069	L2	S	Live	Shrub	Heterogenous	Missing	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3069
+ITS-AS3070	L3	S	Live	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3070
+ITS-AS3071	L4	S	Live	Shrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3071
+ITS-AS3072	L1	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3072
+ITS-AS3073	L2	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3073
+ITS-AS3074	L3	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3074
+ITS-AS3075	L4	I	Live	Intershrub	Heterogenous	D_VS_L	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	ITS-AS3075
