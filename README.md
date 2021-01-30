@@ -10,3 +10,5 @@
 **ITS1 data pre-processing**: [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_geodiversity/blob/master/PreProcessITS1Data.ipynb)  
 **Diversity analyses**: [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_geodiversity/blob/master/Diversity.ipynb)  
 **NCBI metadata**: [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_geodiversity/blob/master/BioSample_and_SRA.ipynb)  
+  
+![Graphical abstract](https://github.com/DSASC/Szitenberg2021_geodiversity/raw/master/geo_abstract.png)
