@@ -1,4 +1,5 @@
 # Szitenberg et al. 2021
+[![DOI](https://zenodo.org/badge/264662940.svg)](https://zenodo.org/badge/latestdoi/264662940)  
 ## Small scale geodiversity structures ammonia-oxidizing communities and other microbial provisioning in a semi-arid shrubland
 
 **Raw data**: NCBI BioProject PRJNA697940
