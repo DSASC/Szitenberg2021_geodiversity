@@ -11,4 +11,4 @@
 **Diversity analyses**: [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_geodiversity/blob/master/Diversity.ipynb)  
 **NCBI metadata**: [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_geodiversity/blob/master/BioSample_and_SRA.ipynb)  
   
-![Graphical abstract](https://github.com/DSASC/Szitenberg2021_geodiversity/raw/master/geo_abstract1.png)
+[preprint](https://doi.org/10.1101/2021.03.08.434393)
